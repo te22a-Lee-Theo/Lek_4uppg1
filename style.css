@@ -1,0 +1,26 @@
+.box-grid
+{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 1fr 2fr 1fr;
+}
+.pic
+{
+    height: 100px;
+    width: auto;
+    border: solid black;
+    border-radius: 15px;
+}
+h1
+{
+    text-align: center;
+    border: solid black;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+.nav
+{
+    border: solid black;
+    border-radius: 15px;
+}
